@@ -8,8 +8,7 @@ It uses the **parallax scrolling effect** to create smooth, eye-catching motion 
 ## 🎨 Features
 
 - ✨ Smooth parallax scrolling  
-- 💻 100% HTML & CSS (no JavaScript)  
-- 🧭 Responsive and clean layout  
+- 💻 100% HTML & CSS (no JavaScript)   
 - 🌈 Lightweight and fast loading  
 
 ---
@@ -18,13 +17,6 @@ It uses the **parallax scrolling effect** to create smooth, eye-catching motion 
 
 - **HTML5**  
 - **CSS3**
-
----
-
-## 📸 Preview
-
-_Add a screenshot of your project here:_  
-![Preview](https://via.placeholder.com/800x400.png?text=Parallax+Effect+Preview)
 
 ---
 
